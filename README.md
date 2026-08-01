@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tinithi</h1>
 <h3 align="center">💻 IT Undergraduate | Aspiring Software Developer | Lifelong Learner</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinithi-perera&label=Profile%20views&color=0e75b6&style=flat" alt="tinithi-perera" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinithi-perera" alt="tinithi-perera" /></a> </p>
+
 - 📫 How to reach me **tinithiperera@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
