@@ -43,6 +43,16 @@
 </p>
 
 ---
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tinithi-perera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tinithi's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinithi-perera&theme=tokyonight&hide_border=true" alt="Tinithi's streak stats" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinithi-perera&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
 
 
