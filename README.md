@@ -11,12 +11,6 @@
   <img src="https://img.shields.io/badge/Status-Learning-brightgreen?style=flat-square" alt="status" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 🚀 About Me
 
 - 💻 IT Undergraduate exploring software development, web technologies, and databases
@@ -50,26 +44,9 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinithi-perera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tinithi's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinithi-perera&theme=tokyonight&hide_border=true" alt="Tinithi's streak stats" height="165"/>
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinithi-perera&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
----
-
-### 🏆 Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=tinithi-perera&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
----
 
 ### 📈 Contribution Graph
 
@@ -80,6 +57,11 @@
 ---
 
 <p align="center"><i>Thanks for stopping by! ✨</i></p>
+
+
+
+
+
 
 
 
