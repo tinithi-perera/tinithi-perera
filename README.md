@@ -11,13 +11,15 @@
   <img src="https://img.shields.io/badge/Status-Learning-brightgreen?style=flat-square" alt="status" />
 </p>
 
-### 🚀 About Me
 
-- 💻 IT Undergraduate exploring software development, web technologies, and databases
-- 🌱 Currently sharpening my skills in Java, JavaScript, and web development
-- 🤝 Open to collaborating on beginner-friendly and web dev projects
-- 📫 Reach me at **tinithiperera@gmail.com**
-- ⚡ Fun fact: I enjoy turning small ideas into working code
+
+## 👩‍💻 About Me
+
+- 🎓 BSc (Hons) Information Technology Undergraduate
+- 🌱 Passionate about learning new technologies
+- 💻 Interested in Software Development and Web Technologies
+- 🚀 Building my skills one project at a time
+- 📚 Always exploring, always improving
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
